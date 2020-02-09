@@ -1,4 +1,4 @@
-# VoidPockets-Mod-Nomad-
+# VoidPockets-Mod-Nomad
 This mod adds balance to the 120+ Storage Mod in 7 Days to Die
 Made by SirVerex
 
